@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
 
   s.name             = "FSCalendarV2"
-  s.version          = "2.8.5"
+  s.version          = "2.8.11"
   s.summary          = "A superiorly awesome iOS7+ calendar control, compatible with Objective-C and Swift."
   
   s.homepage         = "https://github.com/innotech2022/FSCalendarV2"
   s.screenshots      = "https://cloud.githubusercontent.com/assets/5186464/10262249/4fabae40-69f2-11e5-97ab-afbacd0a3da2.jpg"
   s.license          = 'MIT'
-  s.author           = { "Wenchao Ding" => "f33chobits@gmail.com" }
+  s.author           = { "HienNguyen102" => "nguyenconghien0102@gmail.com" }
   s.source           = { :git => "https://github.com/innotech2022/FSCalendarV2.git", :tag => s.version.to_s}
 
   s.platform     = :ios
